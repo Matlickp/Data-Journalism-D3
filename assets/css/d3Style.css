@@ -13,7 +13,7 @@
 
 .inactive {
   font-weight: lighter;
-  fill: #c9c9c9;
+  fill: #0e0606;
   transition: fill 0.3s ease-out;
   text-anchor: middle;
 }
@@ -26,7 +26,7 @@
 /* font size dependent on radius, see app.js */
 .stateText {
   font-family: sans-serif;
-  fill: #0e0606;
+  fill: ;
   text-anchor: middle;
 }
 
@@ -45,7 +45,7 @@
   font-size: 12px;
   line-height: 1;
   line-height: 1.5em;
-  color: #0e0606;
+  color: #e6d9d9;
   text-align: center;
   text-transform: capitalize;
   background: rgba(0, 0, 0, 0.8);
