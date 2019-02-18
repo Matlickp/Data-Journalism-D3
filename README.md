@@ -1,7 +1,7 @@
-<a href="https://matlickp.github.io/Data-Journalism-D3/"> Click here </a>
+<a href="https://matlickp.github.io/Data-Journalism-D3/"> # Data-Journalism-D3 </a>
 
 
-# Data-Journalism-D3
+
 
 Welcome to the newsroom! You've just accepted a data visualization position for a major metro paper. You're tasked with analyzing the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers understand your findings.
 
